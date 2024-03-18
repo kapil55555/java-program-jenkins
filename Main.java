@@ -5,5 +5,6 @@ public class Main{
          System.out.println("this is output from java program");
           System.out.println(new Date());
           System.out.println("hello"); 
+          System.out.println("to check if jenkins process is automated ??"); 
     }
 }
