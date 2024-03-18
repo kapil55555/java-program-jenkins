@@ -6,5 +6,7 @@ public class Main{
           System.out.println(new Date());
           System.out.println("hello"); 
           System.out.println("to check if jenkins process is automated ??"); 
-    }
+            Student stu =new Student();
+            stu.sayHello();
+        }
 }
